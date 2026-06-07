@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+build/
+install/
+log/
+
+captures/
+camera_test/
+
+.colcon/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+*.egg-info/
